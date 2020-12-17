@@ -11,7 +11,7 @@ Página Web empleando React.Js junto a Node.Js
 
 ## Instalación:
 
-_Para comenzar en este proyecto hay que descargar de antes Node.Js. Pasos a Seguir:
+_Para comenzar en este proyecto hay que descargar de antes Node.Js. Pasos a Seguir:_
 
   -Ejecutaremos el ejecutable ".exe", en el último paso seleccionaremos la opción de instalar el paquete de herramientas que nos ofrecen por defecto.
   
@@ -29,5 +29,3 @@ _Para comenzar en este proyecto hay que descargar de antes Node.Js. Pasos a Segu
   npm start
   
   ```
-  
-  _
